@@ -6,6 +6,3 @@
 2. Run `npm i` in the console
 3. Run `npm start` in the console
 4. Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
